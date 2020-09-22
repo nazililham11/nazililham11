@@ -25,6 +25,6 @@ I hope you can find useful stuff here 😉
 
 
 
-![Nazil's github stats](https://github-readme-stats.vercel.app/api?username=nazililham11&show_icons=true&hide_border=true&title_color=000)
+![Nazil's github stats](https://github-readme-stats.vercel.app/api?username=nazililham11&include_all_commits=true&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazililham11&langs_count=9&layout=compact&hide_border=true)
 
