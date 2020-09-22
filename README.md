@@ -26,5 +26,5 @@ I hope you can find useful stuff here 😉
 
 
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=nazililham11&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazililham11&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazililham11&langs_count=6&layout=compact&hide_border=true)
 
