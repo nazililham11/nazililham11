@@ -5,4 +5,4 @@
 ![Nazil's github stats](https://github-readme-stats.vercel.app/api?username=nazililham11&include_all_commits=true&show_icons=true&hide_border=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazililham11&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazililham11&langs_count=20&layout=compact)
