@@ -2,7 +2,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=nazililham11.github&labelColor=%23ffffff&countColor=%232f80ed&style=flat)
 
 
-![Nazil's github stats](https://github-readme-stats.vercel.app/api?username=nazililham11&include_all_commits=true&show_icons=true&hide_border=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazililham11&langs_count=20&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazililham11&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazililham11&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazililham11&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazililham11&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazililham11&theme=github&utcOffset=7)
